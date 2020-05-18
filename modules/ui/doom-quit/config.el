@@ -1,24 +1,14 @@
 ;;; ui/doom-quit/config.el -*- lexical-binding: t; -*-
 
 (defvar +doom-quit-messages
-  '(;; from Doom 1
-    "Please don't leave, there's more demons to toast!"
-    "Let's beat it -- This is turning into a bloodbath!"
-    "I wouldn't leave if I were you. DOS is much worse."
-    "Don't leave yet -- There's a demon around that corner!"
-    "Ya know, next time you come in here I'm gonna toast ya."
-    "Go ahead and leave. See if I care."
-    "Are you sure you want to quit this great editor?"
-    ;; Custom
-    "(setq nothing t everything 'permitted)"
-    "Emacs will remember that."
-    "Emacs, Emacs never changes."
-    "Hey! Hey, M-x listen!"
-    "I'm the man who's going to burn your house down! With lemons!"
-    "It's not like I'll miss you or anything, b-baka!"
-    "Okay, look. We've both said a lot of things you're going to regret..."
-    "Wake up, Mr. Stallman. Wake up and smell the ashes."
-    "You are *not* prepared!")
+  '(;; Imperial quotes
+    "I find your lack of faith disturbing..."
+    "Single reactor ignition..."
+    "You may fire when ready."
+    "Execute order 66..."
+    "POWER! UNNNLIMMITEDD POOWWWEEER!"
+    "Don't be too proud of this technological terror you've constructed."
+    "Evacuate? In our moment of triumph? I think you oversestimate their chances!")
   "A list of quit messages, picked randomly by `+doom-quit'. Taken from
 http://doom.wikia.com/wiki/Quit_messages and elsewhere.")
 
